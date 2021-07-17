@@ -1,5 +1,4 @@
-# Python Challenge - Py Me Up, Charlie
-
+# Python Challenge 
 
 ## PyBank
 
